@@ -1,21 +1,53 @@
-# 👩‍💻 About Me
-Bachelor Students @National Tsing Hua University<br>Majoring in Electrical Engineering & Computer Science<br>Interested in IoT, Machine Learning, and AI.<br>I love solving problems and create useful things!
+# 👋 Hi, I'm Feivel
 
-# 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/feivel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bene.fei.k@gmail.com) 
+> “The best way to predict the future is to invent it.”  
+> 
+> — **Alan Kay**
 
-# 🛠 Language and tools
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+🎓 **Bachelor Student @ National Tsing Hua University**  
+💡 **Major:** Electrical Engineering & Computer Science  
+🔍 **Interests:** IoT · Machine Learning · Artificial Intelligence
 
-<!--
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anotherfei&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anotherfei&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anotherfei&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
+I enjoy solving problems and turning them into **useful things** — usually involving hardware, code, and a bit of AI.
+
+⚡ **Fun fact:** I play Mobile Legends — it’s basically real-time strategy, teamwork, and decision-making under pressure, which oddly mirrors how I approach coding projects.
 
 ---
+
+## 🚀 What I Focus On
+- Embedded & IoT systems (low-level + system integration)
+- Machine Learning & applied AI
+- System-level programming (C/C++, performance-oriented code)
+- Turning ideas into **practical, deployable solutions**
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/feivel)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bene.fei.k@gmail.com)
+
+---
+
+## 🛠 Languages & Tools
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Tools & Environment
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+---
+
+## 👀 Profile Visits
 [![](https://visitcount.itsvg.in/api?id=anotherfei&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+💬 *Always open to collaboration, research discussions, and challenging engineering problems.*
 
 <!--
 **anotherfei/anotherfei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
