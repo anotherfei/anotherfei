@@ -1,4 +1,4 @@
-# 💫 About Me
+# 👩‍💻 About Me
 Bachelor Students @National Tsing Hua University<br>Majoring in Electrical Engineering & Computer Science<br>Interested in IoT, Machine Learning, and AI.<br>I love solving problems and create useful things!
 
 # 🌐 Socials
