@@ -8,7 +8,7 @@
 💡 **Major:** Electrical Engineering & Computer Science  
 🔍 **Interests:** IoT · Machine Learning · Artificial Intelligence
 
-I enjoy solving problems and turning them into **useful things** — usually involving hardware, code, and a bit of AI.
+👩‍💻 I enjoy solving problems and turning them into **useful things**.
 
 ⚡ **Fun fact:** I play Mobile Legends — it’s basically real-time strategy, teamwork, and decision-making under pressure, which oddly mirrors how I approach coding projects.
 
