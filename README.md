@@ -6,7 +6,7 @@
 
 🎓 **Bachelor Student @ National Tsing Hua University**  
 💡 **Major:** Electrical Engineering & Computer Science  
-🔍 **Interests:** IoT · Machine Learning · Artificial Intelligence
+🔍 **Interests:** IoT · Embedded Systems · Artificial Intelligence
 
 👩‍💻 I enjoy solving problems and turning them into **useful things**.
 
